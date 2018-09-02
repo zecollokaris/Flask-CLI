@@ -1,0 +1,8 @@
+docopt
+colorama
+termcolor
+
+[test]
+coverage
+pytest
+pytest-cov
