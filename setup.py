@@ -38,7 +38,7 @@ setup(
     long_description = long_description,
     url = 'https://github.com/zecollokaris/Thermos-cli',
     author = 'Mwangi Njuguna <mwanginjuguna59@gmail.com>,Christine Karimi <karimikim3@gmail.com>,Faith Thuita <thuitamuthoni15@gmail.com>,Collins Kariuki <collo.kariss@gmail.com>',
-    maintainer = 'Mwangi Njuguna, Collins Kariuki'
+    maintainer = 'Mwangi Njuguna, Collins Kariuki',
     maintainer_email = 'mwanginjuguna59@gmail.com , collo.kariss@gmail.com',
     license = 'MIT',
     classifiers = [
