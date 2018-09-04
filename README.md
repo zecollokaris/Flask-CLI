@@ -158,3 +158,10 @@ sudo apt-get install python3.6
     '''
     thermos --version
     '''
+
+# HOW TO USE
+
+Both the CLI and generated project have dependencies that require python3.6.
+
+Once your done with installing the CLI you can use the following commands to start working with Flask. 
+

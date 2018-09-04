@@ -38,7 +38,7 @@ thermos --help
 ### Generating a Flask Project 
 
 ```bash
-thermos create PROJECT-NAME
+thermos create app PROJECT-NAME
 ```
 
 ### Generating Templates and Blueprints
