@@ -23,7 +23,9 @@ Flask is a **micro web framework** written in **Python**. It is classified as a 
 
 ---
 
-# AUTHORS
+## AUTHORS
+
+**Credits**
 
 1. Collins Kariuki.
 
@@ -34,3 +36,7 @@ Flask is a **micro web framework** written in **Python**. It is classified as a 
 4. Christine Karimi.
 
 ---
+
+## Prerequisites
+-You need to have nano text editor installed. you can find out whether you have it installed by typing nano --version in your terminal. For most linux distributions, it is installed by default. 
+
