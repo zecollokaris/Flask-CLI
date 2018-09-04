@@ -14,6 +14,9 @@ Flask is a **micro web framework** written in **Python**. It is classified as a 
 
 ---
 
+
+---
+
 #  DISPLAY
 
 ![](spec.md/installation.png)
@@ -43,7 +46,9 @@ Flask is a **micro web framework** written in **Python**. It is classified as a 
 
 **Installing Nano Text Editor.**
 
-However, if you don't have it installed, you can quicky do that by typing 
+However, if you don't have it installed, you can quicky do that by typing:
+
+
 
 '''
  sudo apt-get install nano in your terminal)
@@ -51,6 +56,21 @@ However, if you don't have it installed, you can quicky do that by typing
 
 * You need to have (python3.6) installed in your machine.
 
-**Installing Python**
+To check if you already have python3.6 before installing type:
 
-To install python3.6 you can quicky do that by typing 
+
+
+'''
+python3.6 -V
+'''
+
+**Installing Python3.6**
+
+To install python3.6 you can quicky do that by typing:
+
+
+
+'''
+sudo apt-get install python3.6
+'''
+
