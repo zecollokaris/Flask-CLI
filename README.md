@@ -121,3 +121,27 @@ sudo apt-get install python3.6
 
 4. From there you can access the CLI.
 
+5. **Clone** the project.
+
+6. Once you done with cloning and project is on your device.
+
+7. get into project folder (cd into project). 
+
+8. Install virtual environment
+
+    '''
+    python3.6 -m venv virtual
+    '''
+
+9. Activate Virtual environment.
+
+    '''
+    source virtual/bin/activate
+    '''
+
+10. **Install the CLI**
+
+    '''
+    pip install -e .
+    '''
+    
