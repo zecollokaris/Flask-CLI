@@ -73,9 +73,9 @@ Due to the extensive installations and requirements to start this cli makes it e
 
 * Christine Karimi.
 
----
 
-## Prerequisites
+# Prerequisites
+
 * You need to have nano text editor installed. you can find out whether you have it installed by typing nano --version in your terminal. For most linux distributions, it is installed by default. 
 
 
