@@ -14,6 +14,19 @@ Flask is a **micro web framework** written in **Python**. It is classified as a 
 
 ---
 
+# WHAT THIS CLI DOES FOR YOU 
+
+Due to the extensive installations and requirements to start this cli makes it easy to:
+
+1. Create the app.
+
+2. Create blueprints.
+
+3. Create template.
+
+
+
+
 
 ---
 
