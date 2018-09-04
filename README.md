@@ -1,4 +1,4 @@
-#                           DISPLAY
+# DESCRIPTION
 
 
 ![](spec.md/installation.png)
