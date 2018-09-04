@@ -24,7 +24,23 @@ Due to the extensive installations and requirements to start this cli makes it e
 
 3. Create template.
 
+**By starting the app it simply:**
 
+1. Creates a folder for you.
+
+2. Initializes Empty Git Repository
+
+3. Installs Flask
+
+    (from flask:)
+
+    -Installs Werkzeug
+
+    -Installs Click
+
+    -Installs Jinja
+
+4. 
 
 
 
