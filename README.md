@@ -32,17 +32,21 @@ Due to the extensive installations and requirements to start this cli makes it e
 
 3. Installs Flask
 
-    (from flask:)
+4. Installs Werkzeug
 
-    -Installs Werkzeug
+5. Installs Click
 
-    -Installs Click
+6. Installs Jinja
 
-    -Installs Jinja
+7. Installs flask script.
 
-4. 
+8. Installs flask-bootstrap
 
+9. Installs gunicorn
 
+10. Installs Flask-wtf
+
+11. Installs Flask-sqalchemy
 
 ---
 
