@@ -40,3 +40,10 @@ Flask is a **micro web framework** written in **Python**. It is classified as a 
 ## Prerequisites
 -You need to have nano text editor installed. you can find out whether you have it installed by typing nano --version in your terminal. For most linux distributions, it is installed by default. 
 
+####     Installing Nano Text Editor.
+
+However, if you don't have it installed, you can quicky do that by typing 
+
+'''
+ sudo apt-get install nano in your terminal)
+'''
