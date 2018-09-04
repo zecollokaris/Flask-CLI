@@ -65,13 +65,13 @@ Due to the extensive installations and requirements to start this cli makes it e
 
 **Credits**
 
-1. Collins Kariuki.
+* Collins Kariuki.
 
-2. Mwangi Njuguna.
+* Mwangi Njuguna.
 
-3. Faith Thuita.
+* Faith Thuita.
 
-4. Christine Karimi.
+* Christine Karimi.
 
 ---
 
@@ -81,7 +81,7 @@ Due to the extensive installations and requirements to start this cli makes it e
 
 **Installing Nano Text Editor.**
 
-However, if you don't have it installed, you can quicky do that by typing:
+-However, if you don't have it installed, you can quicky do that by typing:
 
 
 
@@ -91,7 +91,7 @@ However, if you don't have it installed, you can quicky do that by typing:
 
 * You need to have (python3.6) installed in your machine.
 
-To check if you already have python3.6 before installing type:
+-To check if you already have python3.6 before installing type:
 
 
 
@@ -110,4 +110,14 @@ sudo apt-get install python3.6
 '''
 
 # Setup/Installation Reqiurements.
+
+**To work With this cli {follow the below instructions for set up.}**
+
+1. You will need Internet connection.
+
+2. You will also need a Webpage URL to load in URL's:
+
+3. To get to this CLI fist you need to get to the Flask-CLI repository. Link:-> https://github.com/zecollokaris/Flask-CLI
+
+4. From there you can access the CLI.
 
