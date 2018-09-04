@@ -145,3 +145,16 @@ sudo apt-get install python3.6
     pip install -e .
     '''
     
+11. Once you are done with installing you are good to go.
+
+12. You can get help on using the cli thermos by typing:
+
+    '''
+    thermos --help
+    '''
+
+13. You can get to knw the version by typing:
+
+    '''
+    thermos --version
+    '''
