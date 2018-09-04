@@ -21,3 +21,16 @@ Flask is a **micro web framework** written in **Python**. It is classified as a 
 
 ![](spec.md/install-flame.png)
 
+---
+
+# AUTHORS
+
+1. Collins Kariuki.
+
+2. Mwangi Njuguna.
+
+3. Faith Thuita.
+
+4. Christine Karimi.
+
+---
