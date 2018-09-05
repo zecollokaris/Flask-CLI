@@ -129,35 +129,35 @@ sudo apt-get install python3.6
 
 8. Install virtual environment
 
-    '''
+    ```
     python3.6 -m venv virtual
-    '''
+    ```
 
 9. Activate Virtual environment.
 
-    '''
+    ```
     source virtual/bin/activate
-    '''
+    ```
 
 10. **Install the CLI**
 
-    '''
+    ```
     pip install -e .
-    '''
+    ```
     
 11. Once you are done with installing you are good to go.
 
 12. You can get help on using the cli thermos by typing:
 
-    '''
+    ```
     thermos --help
-    '''
+    ```
 
 13. You can get to knw the version by typing:
 
-    '''
+    ```
     thermos --version
-    '''
+    ```
 
 # HOW TO USE
 
@@ -165,3 +165,20 @@ Both the CLI and generated project have dependencies that require python3.6.
 
 Once your done with installing the CLI you can use the following commands to start working with Flask. 
 
+1. Generate A Flask Project.
+
+    ```
+    thermos create app PROJECT NAME
+    ```
+
+2. Generate Template.
+
+    ```
+    thermos create template TEMPLATENAME
+    ```
+
+3. Generate Blueprint
+
+    ```
+    thermos create blueprint BLUEPRINTNAME
+    ```
