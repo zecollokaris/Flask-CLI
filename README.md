@@ -117,7 +117,9 @@ sudo apt-get install python3.6
 
 2. You will also need a Webpage URL to load in URL's:
 
-3. To get to this CLI fist you need to get to the Flask-CLI repository. Link:-> ```https://github.com/zecollokaris/Flask-CLI```
+3. To get to this CLI fist you need to get to the Flask-CLI repository. 
+
+Link:-> ```https://github.com/zecollokaris/Flask-CLI```
 
 4. From there you can access the CLI.
 
@@ -182,3 +184,23 @@ Once your done with installing the CLI you can use the following commands to sta
     ```
     thermos create blueprint BLUEPRINTNAME
     ```
+
+# Support and Contact
+
+-Mobile number: (+254) 798731203
+
+-Email Address: collo.kariss@gmail.com
+
+-github-username: zecollokaris
+
+---
+
+## License
+
+The app is licensed by MIT.
+
+MIT (c) 2018 - 2020 
+
+Feel FREE to contribute to make the CLI better for easier use by others.
+
+---
