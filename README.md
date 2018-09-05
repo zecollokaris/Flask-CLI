@@ -85,9 +85,9 @@ Due to the extensive installations and requirements to start this cli makes it e
 
 
 
-'''
- sudo apt-get install nano in your terminal)
-'''
+```
+ sudo apt-get install nano
+```
 
 * You need to have (python3.6) installed in your machine.
 
@@ -95,9 +95,9 @@ Due to the extensive installations and requirements to start this cli makes it e
 
 
 
-'''
+```
 python3.6 -V
-'''
+```
 
 **Installing Python3.6**
 
@@ -105,9 +105,9 @@ To install python3.6 you can quicky do that by typing:
 
 
 
-'''
+```
 sudo apt-get install python3.6
-'''
+```
 
 # Setup/Installation Reqiurements.
 
@@ -117,7 +117,7 @@ sudo apt-get install python3.6
 
 2. You will also need a Webpage URL to load in URL's:
 
-3. To get to this CLI fist you need to get to the Flask-CLI repository. Link:-> https://github.com/zecollokaris/Flask-CLI
+3. To get to this CLI fist you need to get to the Flask-CLI repository. Link:-> ```https://github.com/zecollokaris/Flask-CLI```
 
 4. From there you can access the CLI.
 
