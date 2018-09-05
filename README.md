@@ -201,4 +201,6 @@ The app is licensed by MIT.
 
 MIT (c) 2018 - 2020 
 
+Feel FREE to contribute to make the CLI better for easier use by others.
+
 ---
