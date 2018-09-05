@@ -199,6 +199,6 @@ Once your done with installing the CLI you can use the following commands to sta
 
 The app is licensed by MIT.
 
-MIT (c) 2018 
+MIT (c) 2018 - 2020 
 
 ---
