@@ -193,9 +193,12 @@ Once your done with installing the CLI you can use the following commands to sta
 
 -github-username: zecollokaris
 
+---
 
 ## License
 
 The app is licensed by MIT.
 
 Collins Kariuki - MIT (c) 2018 
+
+---
