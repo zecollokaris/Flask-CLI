@@ -1,4 +1,4 @@
-# DESCRIPTION
+# DESCRIPTION 
 
 This CLI is called **THERMOS**.
 
@@ -32,25 +32,35 @@ Due to the extensive installations and requirements to start this cli makes it e
 
 2. Initializes Empty Git Repository
 
-3. Installs Flask
+3. Installs **flask**
 
-4. Installs Werkzeug
+4. Installs **werkzeug**
 
-5. Installs Click
+5. Installs **click**
 
-6. Installs Jinja
+6. Installs **Jinja**
 
-7. Installs flask script.
+7. Installs **flask script**
 
-8. Installs flask-bootstrap
+8. Installs **flask-bootstrap**
 
-9. Installs gunicorn
+9. Installs **gunicorn**
 
-10. Installs Flask-wtf
+10. Installs **flask-wtf**
 
-11. Installs Flask-sqalchemy
+11. Installs **flask-sqalchemy**
+
+**CREATED FILES**
+
+The script also **helps in creating files needed in flask** and this making it easy for you to code as you no longer hav to create them on your own.
+
+It simply creates files and adds the preset standard code thats will not change in any given file structure.
+
+**You are now ready to code.** 
+
 
 ---
+
 
 #  DISPLAY
 
@@ -82,7 +92,6 @@ Due to the extensive installations and requirements to start this cli makes it e
 **Installing Nano Text Editor.**
 
 -However, if you don't have it installed, you can quicky do that by typing:
-
 
 
 ```
