@@ -206,6 +206,11 @@ Checkout ( **zecollo** ) within the files. It is a simple example of the flask f
 
 **zecolloblueprint** -This is a blueprint example created using the CLI similar to the others.
 
+**Once your done you can delete the app zecollo. - It only serves as an example**
+
+Note.
+
+**Do not delete any other files apart from zecollo. They are all needed to the CLI to work.**
 
 # Support and Contact
 
