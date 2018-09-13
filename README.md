@@ -186,13 +186,14 @@ Once your done with installing the CLI you can use the following commands to sta
 
 3. **Generate Template.**
 
--Get into the app you just created then ***from there you can create your blueprints and templates***
-
--**Virtual** must still be activated
-
     ```
     thermos create template TEMPLATENAME
     ```
+
+-Get into the app you just created then ***from there you create your blueprints and templates***
+
+-**Virtual** must still be activated
+
 
 4. **Generate Blueprint**
 
