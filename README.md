@@ -201,7 +201,7 @@ Once your done with installing the CLI you can use the following commands to sta
     thermos create blueprint BLUEPRINTNAME
     ```
 
-4. **Once you are done you can move your file to another location of your choice. This is to enable you to push your work to github in your own repository as the ClI has already been initialized using git.**
+4. **Once you are done you can move your app to another location. This is to enable you to push your work to github in your own repository as the ClI has already been initialized using git.**
 
 # PREVIEW
 
