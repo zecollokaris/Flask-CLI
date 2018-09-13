@@ -222,7 +222,7 @@ Note.
 
 # FEEDBACK
 
-To improve this README.md so as to allow others to use easyly please give feedback so as to improve and help others use the it much easier. Feed back will be really appreciated especially on errors you encounter.
+To improve this README.md please give feedback or contribute so as to improve and help others use the it much easier. Feed back will be really appreciated especially on errors you encounter.
 
 **Still under constant improvement.**
 
