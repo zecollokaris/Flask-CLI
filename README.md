@@ -207,6 +207,8 @@ Once your done with installing the CLI you can use the following commands to sta
 
 As an example I created a simple instance for you to see.
 
+You can compare with your app.
+
 Checkout ( **zecollo** ) within the files. It is a simple example of the flask file structure created using the CLI.
 
 - **zecollo** -This is an app example created using the CLI.
