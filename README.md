@@ -194,6 +194,19 @@ Once your done with installing the CLI you can use the following commands to sta
     thermos create blueprint BLUEPRINTNAME
     ```
 
+# PREVIEW
+
+As an example I created a simple instance for you to see.
+
+Checkout ( **zecollo** ) within the files. It is a simple example of the flask file structure created using the CLI.
+
+**zecollo** -This is an app example created using the CLI.
+
+**zecollo-template.html** -This is a template example created using the CLI you will find it inside the templates folder.
+
+**zecolloblueprint** -This is a blueprint example created using the CLI similar to the others.
+
+
 # Support and Contact
 
 -Mobile number: (+254) 798731203
