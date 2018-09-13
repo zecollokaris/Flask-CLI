@@ -218,7 +218,7 @@ Note.
 
 To improve this README.md so as to allow others to use easyly please give feedback so as to improve and help others use the it much easier. Feed back will be really appreciated especially on errors you encounter.
 
-Still under constant improvements
+**Still under constant improvement.**
 
 # Support and Contact
 
