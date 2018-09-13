@@ -243,7 +243,7 @@ To improve this **README.md** and the **CLI** please give feedback or contribute
 
 The app is licensed by MIT.
 
-MIT (c) 2018 - 2020 
+MIT (c) 2018
 
 Feel FREE to contribute to make the CLI better for easier use by others.
 
