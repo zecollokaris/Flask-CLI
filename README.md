@@ -176,23 +176,25 @@ Both the CLI and generated project have dependencies that require python3.6.
 
 Once your done with installing the CLI you can use the following commands to start working with Flask. 
 
-1. Generate A Flask Project.
+1. **Generate A Flask Project.**
 
     ```
     thermos create app PROJECT NAME
     ```
 
-2. Generate Template.
+2. **Generate Template.**
 
     ```
     thermos create template TEMPLATENAME
     ```
 
-3. Generate Blueprint
+3. **Generate Blueprint**
 
     ```
     thermos create blueprint BLUEPRINTNAME
     ```
+
+4. **Once you are done you can move your file to another location of your choice. This is to enable you to push your work to github in your own repository as the ClI has already been initialized using git.**
 
 # PREVIEW
 
@@ -211,6 +213,12 @@ Checkout ( **zecollo** ) within the files. It is a simple example of the flask f
 Note.
 
 **Do not delete any other files apart from zecollo. They are all needed to the CLI to work.**
+
+# FEEDBACK
+
+To improve this README.md so as to allow others to use easyly please give feedback so as to improve and help others use the it much easier. Feed back will be really appreciated especially on errors you encounter.
+
+Still under constant improvements
 
 # Support and Contact
 
